@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gad2006\\home_work_2\\source\\home_work_2\\private\\gamemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\x64\\home_work_2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\home_work_2\\definitions.home_work_2.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\public\\gamemanager.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\private\\gamegrid.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\private\\gameslot.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\public\\unitbase.h",
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\unrealeditor\\inc\\home_work_2\\uht\\unitbase.generated.h",
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\unrealeditor\\inc\\home_work_2\\uht\\gameslot.generated.h",
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\unrealeditor\\inc\\home_work_2\\uht\\gamegrid.generated.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\private\\commands\\command.h",
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\unrealeditor\\inc\\home_work_2\\uht\\gamemanager.generated.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\public\\tbplayercontroller.h",
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\unrealeditor\\inc\\home_work_2\\uht\\tbplayercontroller.generated.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\private\\commands\\movecommand.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

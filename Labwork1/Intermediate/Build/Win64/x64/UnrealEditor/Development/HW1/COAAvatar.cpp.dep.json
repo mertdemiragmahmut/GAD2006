@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\hw1\\source\\hw1\\private\\coaavatar.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\x64\\hw1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw1\\definitions.hw1.h",
+            "c:\\unrealprojects\\hw1\\source\\hw1\\public\\coaavatar.h",
+            "c:\\unrealprojects\\hw1\\source\\hw1\\public\\coabasecharacter.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\unrealeditor\\inc\\hw1\\uht\\coabasecharacter.generated.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\unrealeditor\\inc\\hw1\\uht\\coaavatar.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

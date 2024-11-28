@@ -1,0 +1,1 @@
+#include "C:/UnrealProjects/HW1/Source/HW1/Public/COAAvatar.h"

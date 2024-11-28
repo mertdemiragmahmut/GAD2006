@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HW1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HW1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HW1">
+      <UniqueIdentifier>{8D820813-5CD4-309C-820A-198F66823F0E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW1\HW1.Build.cs">
+      <Filter>Source\HW1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HW1\HW1.cpp">
+      <Filter>Source\HW1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HW1\HW1.h">
+      <Filter>Source\HW1</Filter>
+    </ClInclude>
+    <Filter Include="Source\HW1\Private">
+      <UniqueIdentifier>{784B1172-BE36-3E89-970C-1B1C2673BAAD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HW1\Private\COAAvatar.cpp">
+      <Filter>Source\HW1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW1\Private\COABaseCharacter.cpp">
+      <Filter>Source\HW1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW1\Private\COAGameMode.cpp">
+      <Filter>Source\HW1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\HW1\Public">
+      <UniqueIdentifier>{D270A83C-7426-3BBF-B9DB-82D714BAEE6E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\HW1\Public\COAAvatar.h">
+      <Filter>Source\HW1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HW1\Public\COABaseCharacter.h">
+      <Filter>Source\HW1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HW1\Public\COAGameMode.h">
+      <Filter>Source\HW1\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

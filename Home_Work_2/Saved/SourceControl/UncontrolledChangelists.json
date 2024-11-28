@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GAD2006/Home_Work_2/Content/Maps/HomeWork2Map.umap",
+				"C:/GAD2006/Home_Work_2/Content/Blueprints/BP_GameGrid.uasset",
+				"C:/GAD2006/Home_Work_2/Content/Blueprints/BP_GameSlot.uasset",
+				"C:/GAD2006/Home_Work_2/Content/Blueprints/BP_PlayerUnit.uasset",
+				"C:/GAD2006/Home_Work_2/Content/Blueprints/BP_GameManager.uasset",
+				"C:/GAD2006/Home_Work_2/Content/Blueprints/BP_GameMode.uasset"
+			]
+		}
+	]
+}

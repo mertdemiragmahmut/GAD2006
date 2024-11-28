@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\unrealeditor\\inc\\home_work_2\\uht\\unitbase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\x64\\home_work_2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\home_work_2\\definitions.home_work_2.h",
+            "c:\\gad2006\\home_work_2\\source\\home_work_2\\public\\unitbase.h",
+            "c:\\gad2006\\home_work_2\\intermediate\\build\\win64\\unrealeditor\\inc\\home_work_2\\uht\\unitbase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

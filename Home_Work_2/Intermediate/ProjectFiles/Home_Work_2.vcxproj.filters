@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Home_Work_2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Home_Work_2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Home_Work_2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Home_Work_2">
+      <UniqueIdentifier>{46907173-A843-3DB6-BDCE-33B019154820}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Home_Work_2\Home_Work_2.Build.cs">
+      <Filter>Source\Home_Work_2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Home_Work_2\Home_Work_2.cpp">
+      <Filter>Source\Home_Work_2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Home_Work_2\Home_Work_2.h">
+      <Filter>Source\Home_Work_2</Filter>
+    </ClInclude>
+    <Filter Include="Source\Home_Work_2\Private">
+      <UniqueIdentifier>{FBF291B7-B727-3351-A272-5D7ED48318AF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Home_Work_2\Private\GameGrid.cpp">
+      <Filter>Source\Home_Work_2\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Home_Work_2\Private\GameGrid.h">
+      <Filter>Source\Home_Work_2\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Home_Work_2\Private\GameManager.cpp">
+      <Filter>Source\Home_Work_2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Home_Work_2\Private\GameSlot.cpp">
+      <Filter>Source\Home_Work_2\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Home_Work_2\Private\GameSlot.h">
+      <Filter>Source\Home_Work_2\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Home_Work_2\Private\TBPlayerController.cpp">
+      <Filter>Source\Home_Work_2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Home_Work_2\Private\UnitBase.cpp">
+      <Filter>Source\Home_Work_2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Home_Work_2\Private\Commands">
+      <UniqueIdentifier>{B47F828C-EAA3-3E3A-8B71-3BD57D9CD29F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Home_Work_2\Private\Commands\Command.cpp">
+      <Filter>Source\Home_Work_2\Private\Commands</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Home_Work_2\Private\Commands\Command.h">
+      <Filter>Source\Home_Work_2\Private\Commands</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Home_Work_2\Private\Commands\MoveCommand.cpp">
+      <Filter>Source\Home_Work_2\Private\Commands</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Home_Work_2\Private\Commands\MoveCommand.h">
+      <Filter>Source\Home_Work_2\Private\Commands</Filter>
+    </ClInclude>
+    <Filter Include="Source\Home_Work_2\Public">
+      <UniqueIdentifier>{D19B1670-DEF2-3337-A714-0DF081B18A58}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Home_Work_2\Public\GameManager.h">
+      <Filter>Source\Home_Work_2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Home_Work_2\Public\TBPlayerController.h">
+      <Filter>Source\Home_Work_2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Home_Work_2\Public\UnitBase.h">
+      <Filter>Source\Home_Work_2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

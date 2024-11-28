@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/HW1/Content/Blueprint/BP_COAGameMode.uasset",
+				"C:/UnrealProjects/HW1/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/UnrealProjects/HW1/Content/Blueprint/BP_Avatar.uasset"
+			]
+		}
+	]
+}

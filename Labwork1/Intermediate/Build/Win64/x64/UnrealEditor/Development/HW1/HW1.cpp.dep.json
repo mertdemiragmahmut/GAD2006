@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\hw1\\source\\hw1\\hw1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\x64\\hw1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw1\\definitions.hw1.h",
+            "c:\\unrealprojects\\hw1\\source\\hw1\\hw1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\hw1\\source\\hw1\\private\\coagamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\x64\\hw1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw1\\definitions.hw1.h",
+            "c:\\unrealprojects\\hw1\\source\\hw1\\public\\coagamemode.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\epicgames\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\epicgames\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unrealprojects\\hw1\\intermediate\\build\\win64\\unrealeditor\\inc\\hw1\\uht\\coagamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
