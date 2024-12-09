@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gad2006\\gad2006\\homework3\\intermediate\\build\\win64\\unrealeditor\\inc\\homework3\\uht\\tileplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gad2006\\gad2006\\homework3\\intermediate\\build\\win64\\x64\\homework3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\gad2006\\gad2006\\homework3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\homework3\\definitions.homework3.h",
+            "c:\\gad2006\\gad2006\\homework3\\source\\homework3\\public\\tileplayercontroller.h",
+            "c:\\gad2006\\gad2006\\homework3\\intermediate\\build\\win64\\unrealeditor\\inc\\homework3\\uht\\tileplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

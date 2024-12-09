@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Maps/HomeWork3Level.umap",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_GameMode.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_GameManager.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_0.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_1.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_5.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_2.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_3.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_4.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_6.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/BP_TileBase_7.uasset",
+				"C:/GAD2006/GAD2006/HomeWork3/Content/Bluprints/NewBlueprint.uasset"
+			]
+		}
+	]
+}

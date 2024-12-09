@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HomeWork3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HomeWork3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HomeWork3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HomeWork3">
+      <UniqueIdentifier>{AAE1C597-C542-3464-A062-45D8BD62DB72}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HomeWork3\HomeWork3.Build.cs">
+      <Filter>Source\HomeWork3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HomeWork3\HomeWork3.cpp">
+      <Filter>Source\HomeWork3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HomeWork3\HomeWork3.h">
+      <Filter>Source\HomeWork3</Filter>
+    </ClInclude>
+    <Filter Include="Source\HomeWork3\Private">
+      <UniqueIdentifier>{A39929D2-0A38-37B2-9A79-7D98F70E39B3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HomeWork3\Private\TileBase.cpp">
+      <Filter>Source\HomeWork3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HomeWork3\Private\TileBase1.cpp">
+      <Filter>Source\HomeWork3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HomeWork3\Private\TileGameManager.cpp">
+      <Filter>Source\HomeWork3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HomeWork3\Private\TilePlayerController.cpp">
+      <Filter>Source\HomeWork3\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\HomeWork3\Public">
+      <UniqueIdentifier>{CC44EEC5-FE4A-38C6-B22A-C6AF894AAD9B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\HomeWork3\Public\TileBase.h">
+      <Filter>Source\HomeWork3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HomeWork3\Public\TileBase1.h">
+      <Filter>Source\HomeWork3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HomeWork3\Public\TileGameManager.h">
+      <Filter>Source\HomeWork3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HomeWork3\Public\TilePlayerController.h">
+      <Filter>Source\HomeWork3\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
